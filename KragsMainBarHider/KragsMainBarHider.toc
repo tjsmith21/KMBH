@@ -2,7 +2,7 @@
 ## Title: Krags Main Bar Hider
 ## Notes: Toggle the main action bar visibility
 ## Author: Krag
-## Version: 1.0
+## Version: 1.1
 ## SavedVariables: KragsMainBarDB
 ## IconTexture: Interface\AddOns\KragsMainBarHider\images\Logo
 
